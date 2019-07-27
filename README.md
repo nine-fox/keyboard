@@ -1,1 +1,1 @@
-# issues for nine-fox mechanical keyboards
+# 九尾官方站，收集BUG及特性列表
